@@ -38,4 +38,3 @@
 ![sf-payroll-analysis](assets/images/01_executive_overview.png)
 
 Click on the Power BI file in the `powerbi/` folder to explore the interactive dashboard.
----
