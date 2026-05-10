@@ -70,18 +70,18 @@ This analysis aims to identify key cost drivers and support better workforce and
 ## **Dashboard Preview**
 
 ### Executive Overview
-![sf-payroll-analysis](assets/images/01_executive_overview.png)
+![sf-payroll-analysis](assets/images/01_executive_overview_v2.png)
 
 ### Root Cause Analysis
-![sf-payroll-analysis](assets/images/02_root_cause_analysis.png)
+![sf-payroll-analysis](assets/images/02_root_cause_analysis_v2.png)
 
 ### Interactive Exploration
-![sf-payroll-analysis](assets/images/03_interactive_exploration.png)
+![sf-payroll-analysis](assets/images/03_interactive_exploration_v2.png)
 
 ### Scenario Simulation
-![sf-payroll-analysis](assets/images/04_scenario_simulation.png)
+![sf-payroll-analysis](assets/images/04_scenario_simulation_v2.png)
 
 ### Forecast & Trend Analysis
-![sf-payroll-analysis](assets/images/05_forecast_trend_analysis.png)
+![sf-payroll-analysis](assets/images/05_forecast_trend_analysis_v2.png)
 
 Click on the Power BI file in the `powerbi/` folder to explore the interactive dashboard.
