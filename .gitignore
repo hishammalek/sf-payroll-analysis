@@ -9,3 +9,6 @@ Thumbs.db
 # Python (future-proof)
 __pycache__/
 *.pyc
+
+# Data files
+data_raw/
